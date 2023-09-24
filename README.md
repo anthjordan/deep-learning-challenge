@@ -18,5 +18,4 @@ Three attempts to try to increase the accuracy, wasn't able to raise it above 75
 # 268/268 - 0s - loss: 0.5690 - accuracy: 0.7265 - 488ms/epoch - 2ms/step
 # Loss: 0.5690232515335083, Accuracy: 0.7265306115150452
 
-# combined the changes from last two attempts and didn't come with anything to different then with just 
-# the added extera epochs.
+# combined the changes from last two attempts and didn't come with anything to different then with just the added extera epochs.
