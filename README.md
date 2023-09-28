@@ -1,6 +1,12 @@
 # deep-learning-challenge
 Module 21 Challenge
-File Starter_Code.ipynb is the file the code is in.
+File Starter_Code.ipynb is the file the code is in with the first attempt.
+three more attempts were done and listed files as follow:
+Starter_Code_1.ipynb
+Starter_Code_2.ipynb
+Starter_Code_3.ipynb
+Starter_Code_4.ipynb
+
 created code in Google Colab due to not being able to run on my laptop.
 
 Three attempts to try to increase the accuracy, wasn't able to raise it above 75%
